@@ -1,0 +1,1176 @@
+2025/02/19 22:54:26 [stderr] 30138:this is parent process pid=30138
+
+2025/02/19 22:54:28 [stderr] 30138:this is parent process pid=30138
+
+2025/02/19 22:54:30 [stderr] 30138:this is parent process pid=30138
+
+2025/02/19 22:55:08 [stderr] 30138:this is parent process pid=30138
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGINT) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGHUP) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGTERM) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGIO) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGALRM) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:nginx: sigaction(SIGSYS) success! 
+
+2025/02/21 17:50:51 [stderr] 23617:this is parent process pid=23617
+
+2025/02/21 17:50:51 [notice] 23618:worker process 23618 启动并运行...
+2025/02/21 17:50:51 [notice] 23620:worker process 23620 启动并运行...
+2025/02/21 17:50:51 [notice] 23619:worker process 23619 启动并运行...
+2025/02/21 17:50:51 [notice] 23621:worker process 23621 启动并运行...
+2025/02/21 17:51:14 [notice] 23617:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23621:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23620:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23619:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23618:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23621:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23620:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23619:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23618:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23620:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23619:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23618:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23621:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23619:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23618:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23620:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23621:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23620:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23621:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23619:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:14 [notice] 23618:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:15 [stderr] 23617:this is parent process pid=23617
+
+2025/02/21 17:51:15 [notice] 23617:signal 28 (SIGWINCH) receive  
+2025/02/21 17:51:16 [stderr] 23617:this is parent process pid=23617
+
+2025/02/21 17:51:25 [notice] 23621:signal 2 (SIGINT) receive  
+2025/02/21 17:51:25 [notice] 23618:signal 2 (SIGINT) receive  
+2025/02/21 17:51:25 [notice] 23620:signal 2 (SIGINT) receive  
+2025/02/21 17:51:25 [notice] 23619:signal 2 (SIGINT) receive  
+2025/02/21 17:51:25 [notice] 23617:signal 2 (SIGINT) receive  
+2025/02/21 17:51:26 [stderr] 23617:this is parent process pid=23617
+
+2025/02/21 17:52:12 [notice] 23617:signal 17 (SIGCHLD) receive from 23618
+2025/02/21 17:52:12 [alert] 23617:pid = 23618 exited on signal 9!
+2025/02/21 17:52:13 [stderr] 23617:this is parent process pid=23617
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGINT) success! 
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGHUP) success! 
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGTERM) success! 
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGIO) success! 
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGALRM) success! 
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/21 17:55:44 [stderr] 25747:nginx: sigaction(SIGSYS) success! 
+
+2025/02/21 17:55:44 [stderr] 25748:this is parent process pid=25748
+
+2025/02/21 17:55:44 [notice] 25752:worker process 25752 启动并运行...
+2025/02/21 17:55:44 [notice] 25751:worker process 25751 启动并运行...
+2025/02/21 17:55:44 [notice] 25753:worker process 25753 启动并运行...
+2025/02/21 17:55:44 [notice] 25750:worker process 25750 启动并运行...
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGINT) success! 
+
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGHUP) success! 
+
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGTERM) success! 
+
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGIO) success! 
+
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGALRM) success! 
+
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/22 21:46:52 [stderr] 27306:nginx: sigaction(SIGSYS) success! 
+
+2025/02/22 21:46:52 [stderr] 27307:this is parent process pid=27307
+
+2025/02/22 21:46:52 [notice] 27311:worker process 27311 启动并运行...
+2025/02/22 21:46:52 [notice] 27310:worker process 27310 启动并运行...
+2025/02/22 21:46:52 [notice] 27309:worker process 27309 启动并运行...
+2025/02/22 21:46:52 [notice] 27308:worker process 27308 启动并运行...
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGINT) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGHUP) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGTERM) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGIO) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGALRM) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: sigaction(SIGSYS) success! 
+
+2025/02/22 21:51:28 [stderr] 29302:nginx: CSocket::Initialize()中的bind() failed i=0(13Permission denied)
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGINT) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGHUP) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGTERM) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGIO) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGALRM) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: sigaction(SIGSYS) success! 
+
+2025/02/22 21:52:05 [stderr] 29551:nginx: CSocket::Initialize()中的bind() failed i=0(13Permission denied)
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGINT) success! 
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGHUP) success! 
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGTERM) success! 
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGIO) success! 
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGALRM) success! 
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/22 21:52:30 [stderr] 29725:nginx: sigaction(SIGSYS) success! 
+
+2025/02/22 21:52:30 [info] 29725:监听8080端口成功
+2025/02/22 21:52:30 [info] 29725:监听9000端口成功
+2025/02/22 21:52:30 [warn] 29726:这个XXX工作的有问题,显示的结果是=YYYY
+2025/02/22 21:52:30 [stderr] 29726:this is parent process pid=29726
+
+2025/02/22 21:52:30 [notice] 29730:worker process 29730 启动并运行...
+2025/02/22 21:52:30 [notice] 29727:worker process 29727 启动并运行...
+2025/02/22 21:52:30 [notice] 29729:worker process 29729 启动并运行...
+2025/02/22 21:52:30 [notice] 29728:worker process 29728 启动并运行...
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGINT) success! 
+
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGHUP) success! 
+
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGTERM) success! 
+
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGIO) success! 
+
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGALRM) success! 
+
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/22 21:57:43 [stderr] 32180:nginx: sigaction(SIGSYS) success! 
+
+2025/02/22 21:57:43 [info] 32180:监听8080端口成功
+2025/02/22 21:57:43 [info] 32180:监听9000端口成功
+2025/02/22 21:57:43 [warn] 32181:这个XXX工作的有问题,显示的结果是=YYYY
+2025/02/22 21:57:43 [stderr] 32181:this is parent process pid=32181
+
+2025/02/22 21:57:43 [notice] 32182:worker process 32182 启动并运行...
+2025/02/22 21:57:43 [notice] 32183:worker process 32183 启动并运行...
+2025/02/22 21:57:43 [notice] 32184:worker process 32184 启动并运行...
+2025/02/22 21:57:43 [notice] 32186:worker process 32186 启动并运行...
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGINT) success! 
+
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGHUP) success! 
+
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGTERM) success! 
+
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGIO) success! 
+
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGALRM) success! 
+
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/26 19:03:46 [stderr] 517820:nginx: sigaction(SIGSYS) success! 
+
+2025/02/26 19:03:46 [info] 517820:监听8080端口成功
+2025/02/26 19:03:46 [info] 517820:监听9000端口成功
+2025/02/26 19:03:46 [warn] 517821:这个XXX工作的有问题,显示的结果是=YYYY
+2025/02/26 19:03:46 [stderr] 517821:this is parent process pid=517821
+
+2025/02/26 19:03:46 [notice] 517822:worker process 517822 启动并运行...
+2025/02/26 19:03:46 [notice] 517825:worker process 517825 启动并运行...
+2025/02/26 19:03:46 [notice] 517823:worker process 517823 启动并运行...
+2025/02/26 19:03:46 [notice] 517824:worker process 517824 启动并运行...
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGINT) success! 
+
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGHUP) success! 
+
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGTERM) success! 
+
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGIO) success! 
+
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGALRM) success! 
+
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/26 19:17:31 [stderr] 522301:nginx: sigaction(SIGSYS) success! 
+
+2025/02/26 19:17:31 [info] 522301:监听8080端口成功
+2025/02/26 19:17:31 [info] 522301:监听9000端口成功
+2025/02/26 19:17:31 [warn] 522302:这个XXX工作的有问题,显示的结果是=YYYY
+2025/02/26 19:17:31 [stderr] 522302:this is parent process pid=522302
+
+2025/02/26 19:17:31 [notice] 522303:worker process 522303 启动并运行...
+2025/02/26 19:17:31 [notice] 522304:worker process 522304 启动并运行...
+2025/02/26 19:17:31 [notice] 522306:worker process 522306 启动并运行...
+2025/02/26 19:17:31 [notice] 522305:worker process 522305 启动并运行...
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGINT) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGHUP) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGTERM) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGIO) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGALRM) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: sigaction(SIGSYS) success! 
+
+2025/02/26 19:17:44 [stderr] 522433:nginx: CSocket::Initialize()中的bind() failed i=0(98Address already in use)
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGINT) success! 
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGHUP) success! 
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGTERM) success! 
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGIO) success! 
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGALRM) success! 
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/26 19:19:01 [stderr] 522997:nginx: sigaction(SIGSYS) success! 
+
+2025/02/26 19:19:01 [info] 522997:监听8080端口成功
+2025/02/26 19:19:01 [info] 522997:监听9000端口成功
+2025/02/26 19:19:01 [warn] 522998:这个XXX工作的有问题,显示的结果是=YYYY
+2025/02/26 19:19:01 [notice] 522999:worker process 522999 启动并运行...
+2025/02/26 19:19:01 [notice] 523000:worker process 523000 启动并运行...
+2025/02/26 19:19:01 [notice] 523001:worker process 523001 启动并运行...
+2025/02/26 19:19:01 [stderr] 522998:this is parent process pid=522998
+
+2025/02/26 19:19:01 [notice] 523003:worker process 523003 启动并运行...
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGINT) success! 
+
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGHUP) success! 
+
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGTERM) success! 
+
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGIO) success! 
+
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGALRM) success! 
+
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/28 20:45:31 [stderr] 1446031:nginx: sigaction(SIGSYS) success! 
+
+2025/02/28 20:45:31 [info] 1446031:监听8080端口成功
+2025/02/28 20:45:31 [info] 1446031:监听9000端口成功
+2025/02/28 20:45:31 [warn] 1446032:这个XXX工作的有问题,显示的结果是=YYYY
+2025/02/28 20:45:31 [alert] 1446033:CSocket::ngx_get_connection()中获取空闲连接时空闲连接的链表是空的!
+2025/02/28 20:45:31 [stderr] 1446033:nginx: CSocket::ngx_epoll_init()中的ngx_get_connection() failed
+
+2025/02/28 20:45:31 [stderr] 1446033:nginx: CSocket::~CSocket()
+
+2025/02/28 20:45:31 [alert] 1446034:CSocket::ngx_get_connection()中获取空闲连接时空闲连接的链表是空的!
+2025/02/28 20:45:31 [stderr] 1446034:nginx: CSocket::ngx_epoll_init()中的ngx_get_connection() failed
+
+2025/02/28 20:45:31 [stderr] 1446034:nginx: CSocket::~CSocket()
+
+2025/02/28 20:45:31 [stderr] 1446032:this is parent process pid=1446032
+
+2025/02/28 20:45:31 [notice] 1446032:signal 17 (SIGCHLD) receive from 1446033
+2025/02/28 20:45:31 [alert] 1446032:pid = 1446033 exited with code 2!
+2025/02/28 20:45:31 [alert] 1446037:CSocket::ngx_get_connection()中获取空闲连接时空闲连接的链表是空的!
+2025/02/28 20:45:31 [stderr] 1446037:nginx: CSocket::ngx_epoll_init()中的ngx_get_connection() failed
+
+2025/02/28 20:45:31 [stderr] 1446037:nginx: CSocket::~CSocket()
+
+2025/02/28 20:45:31 [alert] 1446036:CSocket::ngx_get_connection()中获取空闲连接时空闲连接的链表是空的!
+2025/02/28 20:45:31 [stderr] 1446036:nginx: CSocket::ngx_epoll_init()中的ngx_get_connection() failed
+
+2025/02/28 20:45:31 [stderr] 1446036:nginx: CSocket::~CSocket()
+
+2025/02/28 20:45:32 [stderr] 1446032:this is parent process pid=1446032
+
+2025/02/28 20:45:32 [notice] 1446032:signal 17 (SIGCHLD) receive from 1446037
+2025/02/28 20:45:32 [alert] 1446032:pid = 1446034 exited with code 2!
+2025/02/28 20:45:33 [stderr] 1446032:this is parent process pid=1446032
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGINT) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGHUP) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGTERM) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGIO) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGALRM) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: sigaction(SIGSYS) success! 
+
+2025/02/28 20:46:54 [stderr] 1446759:nginx: CSocket::Initialize()中的bind() failed i=0(98Address already in use)
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGINT) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGHUP) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGTERM) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGIO) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGALRM) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: sigaction(SIGSYS) success! 
+
+2025/02/28 20:48:49 [stderr] 1447524:nginx: CSocket::Initialize()中的bind() failed i=0(98Address already in use)
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGINT) success! 
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGHUP) success! 
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGQUIT) success! 
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGTERM) success! 
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGCHLD) success! 
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGIO) success! 
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGALRM) success! 
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGUSER1) success! 
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGUSER2) success! 
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGWINCH) success! 
+
+2025/02/28 20:50:41 [stderr] 1448130:nginx: sigaction(SIGSYS) success! 
+
+2025/02/28 20:50:41 [info] 1448130:监听8080端口成功
+2025/02/28 20:50:41 [info] 1448130:监听9000端口成功
+2025/02/28 20:50:41 [warn] 1448131:这个XXX工作的有问题,显示的结果是=YYYY
+2025/02/28 20:50:41 [stderr] 1448131:this is parent process pid=1448131
+
+2025/02/28 20:50:41 [notice] 1448132:worker process 1448132 启动并运行...
+2025/02/28 20:50:41 [notice] 1448133:worker process 1448133 启动并运行...
+2025/02/28 20:50:41 [notice] 1448134:worker process 1448134 启动并运行...
+2025/02/28 20:50:41 [notice] 1448135:worker process 1448135 启动并运行...
+2025/02/28 20:54:52 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:55:53 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:55:55 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:55:56 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:03 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:04 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:04 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:04 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:04 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:04 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:04 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:05 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:05 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:05 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:05 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:11 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:12 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 20:56:23 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 21:08:24 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 21:08:34 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 21:08:59 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 21:09:01 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 21:31:54 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 21:31:54 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 21:35:36 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 21:35:47 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 21:52:41 [stderr] 1448132:nginx: receive a message
+
+2025/02/28 21:52:44 [stderr] 1448132:nginx: receive a message
+
+2025/02/28 21:52:54 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 21:52:57 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 21:53:07 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 21:53:10 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:05:13 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:05:23 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:32:42 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 22:35:45 [stderr] 1448132:nginx: receive a message
+
+2025/02/28 22:35:55 [stderr] 1448132:nginx: receive a message
+
+2025/02/28 22:43:34 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 22:43:37 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 22:43:43 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 22:43:48 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 22:43:54 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:44:04 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:51:12 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 22:51:22 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 22:54:27 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:55:00 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:55:27 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:56:00 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:56:01 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:57:11 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:57:21 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 22:57:31 [stderr] 1448135:nginx: receive a message
+
+2025/02/28 23:05:09 [stderr] 1448132:nginx: receive a message
+
+2025/02/28 23:05:09 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 23:05:15 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 23:05:20 [stderr] 1448134:nginx: receive a message
+
+2025/02/28 23:05:39 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 00:50:46 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 00:50:56 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 00:52:30 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 00:52:30 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 00:52:30 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 00:52:40 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 00:52:40 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 00:52:40 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 01:02:01 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 01:03:01 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 01:17:19 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 01:17:29 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 01:27:44 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 01:28:17 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 01:28:44 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 01:29:17 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 01:32:02 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 01:33:32 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 02:11:08 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:11:18 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:19:51 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:19:51 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:19:51 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:20:01 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:20:01 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:20:01 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:26:59 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:27:09 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:39:49 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:39:59 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:51:17 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:51:27 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:51:33 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 02:51:47 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 03:02:37 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 03:02:41 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 03:02:49 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 03:02:49 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 03:02:49 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 03:02:55 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 03:02:59 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 03:03:14 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 03:03:17 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 03:03:32 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 03:03:33 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 03:03:48 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 03:06:55 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 03:06:58 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 03:09:25 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 03:52:48 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 03:52:51 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 03:52:51 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 03:52:54 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 04:25:06 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 04:26:36 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 04:28:21 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 04:28:21 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 04:28:21 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 04:28:35 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 04:28:35 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 04:28:35 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 04:53:14 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 04:53:44 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 04:58:53 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 04:59:01 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:04:58 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 05:04:58 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:04:58 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 05:05:08 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 05:05:08 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:05:08 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 05:10:09 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:10:19 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 05:10:31 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:10:39 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 05:11:31 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:12:36 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:12:45 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:16:46 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:16:46 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 05:16:48 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 05:18:02 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 05:30:34 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 05:31:34 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 05:38:16 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:38:26 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:53:49 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 05:54:00 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 06:02:11 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 06:02:21 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 06:15:05 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 06:15:15 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 07:11:42 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 07:11:52 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 07:12:03 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 07:12:03 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 07:27:54 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 07:28:04 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 07:28:13 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 07:28:13 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 07:28:14 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 07:28:23 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 07:28:24 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 07:28:33 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 07:33:56 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 07:34:56 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 07:51:00 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 07:51:10 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 08:01:05 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 08:01:15 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 08:26:35 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 08:26:45 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 08:34:08 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 08:34:39 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 08:35:08 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 08:35:39 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 08:50:56 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 08:50:57 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 08:51:03 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 08:51:04 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 08:51:10 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 08:51:30 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:33:34 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:33:46 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:34:01 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:34:04 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:34:19 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:34:23 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:34:23 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:34:26 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:34:26 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:34:29 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:34:30 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:34:33 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:34:48 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:34:51 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:35:06 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:35:09 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:35:09 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:35:12 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:35:28 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:35:31 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:35:47 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:35:53 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:36:12 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:36:16 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:36:29 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:36:33 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:36:49 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:36:52 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:37:07 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:37:10 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:37:10 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:37:13 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:37:28 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:37:31 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:37:47 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 09:37:50 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 09:38:05 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:38:08 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:38:23 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:38:26 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:38:41 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:38:44 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:39:00 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:39:10 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:39:20 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:39:35 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:39:38 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:39:53 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:39:56 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:40:11 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:40:14 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:40:30 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 09:40:33 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 09:40:48 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:40:51 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:41:06 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 09:41:09 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 09:41:24 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:41:27 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 09:41:43 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:41:46 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:41:46 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:41:49 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:42:04 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:42:07 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:42:20 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:42:26 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 09:46:20 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 09:46:30 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 10:03:54 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:04:05 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:33:25 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:33:30 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:33:33 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:33:38 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:33:42 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:33:47 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:33:47 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 10:33:52 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 10:33:52 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:33:57 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:33:57 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:34:02 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:34:02 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:34:07 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:34:08 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 10:34:13 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 10:34:13 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:34:18 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:34:18 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:23 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:23 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:28 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:28 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:33 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:34 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:39 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:39 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:44 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:44 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:34:49 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:34:49 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:54 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:54 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:59 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:34:59 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:35:04 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:35:05 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:35:10 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:35:10 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 10:35:15 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 10:35:15 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:35:20 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:35:20 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:35:25 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:35:25 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:35:31 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:35:36 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:35:36 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:35:36 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 10:35:41 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 10:35:49 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:35:49 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:35:54 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:35:54 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:36:00 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:36:05 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:36:05 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:36:05 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:36:10 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:36:10 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:36:15 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:36:15 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:36:20 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:40:11 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:41:11 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 10:41:57 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:42:07 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:47:14 [stderr] 1448132:nginx: receive a message
+
+2025/03/01 10:47:14 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 10:47:16 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:21:53 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:22:04 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:34:36 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 11:34:46 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 11:34:57 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 11:34:57 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 11:36:39 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:36:49 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:48:55 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:49:05 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:49:15 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:49:15 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:49:20 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:49:25 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:49:25 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:49:35 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:49:35 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 11:49:45 [stderr] 1448133:nginx: receive a message
+
+2025/03/01 11:49:45 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:49:55 [stderr] 1448135:nginx: receive a message
+
+2025/03/01 11:49:55 [stderr] 1448134:nginx: receive a message
+
+2025/03/01 11:50:05 [stderr] 1448134:nginx: receive a message
+
